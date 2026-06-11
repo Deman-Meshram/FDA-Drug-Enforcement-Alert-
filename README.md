@@ -10,6 +10,45 @@
 
 ---
 
+## The Problem
+
+Pharma companies and compliance teams must stay updated on FDA drug recalls and enforcement actions. Missing a recall notice can lead to serious legal and financial consequences.
+
+Manually checking the FDA website daily is tedious, easy to forget, and not scalable.
+
+---
+
+## The Solution
+
+FDA Drug Enforcement Alert automatically monitors the FDA database, generates AI summaries of each recall, and delivers a formatted email alert — so compliance teams never miss a critical update.
+
+- Zero manual checking — runs on schedule automatically
+- AI summaries so you understand each recall instantly
+- Google search links for deep research per recall
+- Professional HTML email delivered to inbox
+
+---
+
+## Time & Effort Saved
+
+| Task | Manual | This Automation |
+|---|---|---|
+| Checking FDA website daily | 20-30 mins/day | Zero — fully automatic |
+| Reading enforcement notices | Hours | AI summary per recall |
+| Researching each recall | Manual Google search | Direct links provided |
+| Notifying team | Manual email | Auto-delivered to Gmail |
+
+---
+
+## Final Output
+
+- ✅ AI-generated summary per FDA enforcement action
+- ✅ Google search links per recall for deep research
+- ✅ Professional HTML Gmail alert with all details
+- ✅ Formatted dates — human readable, not raw FDA format
+
+---
+
 ## What It Does
 
 Automatically fetches latest FDA drug enforcement actions, generates AI summaries, and delivers formatted email alerts.
