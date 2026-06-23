@@ -1,10 +1,5 @@
 # FDA Drug Enforcement Alert — Pharma Compliance Monitor
 
-## 🎬 Demo Video
-[▶ Watch Demo on YouTube](https://youtu.be/KyReoygX7aY)
-
----
-
 > Real-time FDA drug recall and enforcement monitoring for Pharma professionals.
 
 
